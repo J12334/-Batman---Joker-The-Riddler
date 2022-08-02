@@ -69,8 +69,8 @@ function start() {
     
   }else{
     generateGrid(4);
-    totaltimetocountdown = 5;
-    totalTime = 5;
+    totaltimetocountdown = 50;
+    totalTime = 50;
     noOfRows = 4;
   } 
 
